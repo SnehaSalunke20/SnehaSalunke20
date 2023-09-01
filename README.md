@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnehaSalunke20
+- 👋 Hi, I’m Sneha Salunke
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/sneha-salunke-114285257
 
